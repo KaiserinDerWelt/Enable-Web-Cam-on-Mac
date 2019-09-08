@@ -1,0 +1,3 @@
+/*Command to enable MACBOOK Webcam*/
+
+sudo killall VDCAssistant
